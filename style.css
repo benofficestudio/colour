@@ -59,6 +59,18 @@ h2 {
   object-fit: cover;
   background: url("Cyan.png") no-repeat fixed;
 }
+.section4{
+  width:100vw;
+  height:800px;
+  object-fit: cover;
+  background: url("Dusty\ Rose.png") no-repeat fixed;
+}
+.section4{
+  width:100vw;
+  height:800px;
+  object-fit: cover;
+  background: url("Electric\ Blue.png") no-repeat fixed;
+}
 
 p {
   margin: 50px;
